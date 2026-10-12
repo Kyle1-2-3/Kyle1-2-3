@@ -1,5 +1,5 @@
 # Kyle
-Hi there 👋
+#Hi there 👋
 
 I build software for everyday life. 
 ### Tech Stack
