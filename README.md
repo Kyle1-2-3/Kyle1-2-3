@@ -2,7 +2,7 @@
 
 I build software for everyday life. 
 ### Tech Stack
-Languages: C++ · Python · SQL"
+Languages: C++ · Python · SQL
 
 
 Tools: SQLite · Docker · Flask  
