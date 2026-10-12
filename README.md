@@ -2,7 +2,7 @@
 
 I build software for everyday life. 
 ### Tech Stack
-Languages: C++ · Python · SQL
+Languages: C++ · Python · SQL"/n"
 Tools: SQLite · Docker · Flask  
 ### Projects
 - [Brentwood Chatbot](https://github.com/Kyle1-2-3/chat-bot) — A school information assistant.
