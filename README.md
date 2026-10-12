@@ -1,4 +1,6 @@
 # Kyle
+Hi there 👋
+
 I build software for everyday life. 
 ### Tech Stack
 C++ · Python
